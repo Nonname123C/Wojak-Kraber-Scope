@@ -1,0 +1,6 @@
+{
+	"Name": "Wojak kraber scope crosshair",
+	"Description": "Default and Threat scopes only, can't figure out how to do Variable.",
+	"LoadPriority": 3,
+	"Version": "1"
+}
